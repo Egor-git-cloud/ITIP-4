@@ -6,7 +6,6 @@ import org.springframework.context.annotation.ComponentScan;
 @Configuration
 @ComponentScan("org.example")
 public class AppConfig {
-    // Никаких @Bean!!
 }
 
 // public class AppConfig {
